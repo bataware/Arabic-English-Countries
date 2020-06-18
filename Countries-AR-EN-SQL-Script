@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
--- DDL for creating table "NATIONALITY" within your schema named "SCHEMA_NAME"
+-- DDL for creating table "NATIONALITY" within your Oracle DB schema named "SCHEMA_NAME"
 -------------------------------------------------------------------------------
 CREATE TABLE "SCHEMA_NAME"."NATIONALITY" 
    (	"NATIONALITY_ID" NUMBER, 
